@@ -2263,7 +2263,7 @@
     (in_bom yes) (on_board yes)
     (uuid 2fc429b0-8f95-4a55-a702-5f5bc11d40b4)
     (property "Reference" "C2" (id 0) (at 45.72 67.945 0))
-    (property "Value" "0.1uF" (id 1) (at 43.18 67.945 0))
+    (property "Value" "22pf" (id 1) (at 43.18 67.945 0))
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 48.895 63.1698 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3496,7 +3496,7 @@
       (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/2fc429b0-8f95-4a55-a702-5f5bc11d40b4"
-      (reference "C2") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C2") (unit 1) (value "22pf") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/a350a85d-0544-4287-b9e5-c3217e648cae"
       (reference "C5") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0603_1608Metric")
